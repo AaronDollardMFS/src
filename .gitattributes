@@ -1,3 +1,4 @@
 secrets.txt filter=git-crypt diff=git-crypt-KEYFILE
 *.key filter=git-crypt diff=git-crypt
-secret.dir/** filter=git-crypt diff=git-crypt
+secretdir/** filter=git-crypt diff=git-crypt
+src/** firlter=git-crypt diff=git-crypt
