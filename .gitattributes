@@ -1,6 +1,6 @@
 .gitattributes !filter !diff
 
 secrets.txt filter=git-crypt diff=git-crypt
-test.php filter=git-crypt diff=git-crypt
+# test.php filter=git-crypt diff=git-crypt
 *.key filter=git-crypt diff=git-crypt
 src/** firlter=git-crypt diff=git-crypt
